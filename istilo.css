@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+p{
+    color: black;
+}
+button{
+    background-color: deepskyblue;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+canvas{
+    background-color: lawngreen;
+}
